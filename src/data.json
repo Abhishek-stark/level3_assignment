@@ -1,0 +1,49 @@
+[{
+        "python": "How often do you use Python for data analysis and machine learning tasks? What is the most common use case for Python in your organization?How important is Python's simplicity and readability in your development workflow?
+        What do you like most about using Python
+        for
+        web development ? What are the biggest challenges you face when working with Python
+        for data science tasks ?
+        How do you think Python will evolve in the next 2 - 3 years in terms of machine learning capabilities ? What is your level of experience with Python ?
+            How does your organization primarily use Python ? How does Python 's vast number of libraries and frameworks impact your development experience?
+        What role does Python play in your organization 's automation strategy?
+
+        "
+    },
+    {
+        "Javascript": "How often do you use JavaScript for front-end development?
+        What is the most common use
+        case for JavaScript in your organization ?
+        How important is JavaScript 's ability to manipulate DOM elements in your work?
+        What do you like most about using JavaScript
+        for
+        client - side scripting ?
+        What are the biggest challenges you face when working with JavaScript
+        for back - end development ?
+        How do you think JavaScript will evolve in the next 2 - 3 years in terms of server - side capabilities ?
+            What is your level of experience with JavaScript ?
+            How does your organization primarily use JavaScript ?
+            How does JavaScript 's dynamic nature impact your development workflow?
+        What role does JavaScript play in your organization 's mobile app development strategy?"
+    },
+    {
+        "C#": "
+        How often do you use C#
+        for
+        Windows desktop app development ?
+        What is the most common use
+        case for C# in your organization ?
+        How important is C# 's strong typing and object-oriented design in your coding experience?
+        What do you like most about using C#
+        for
+        game development ?
+        What are the biggest challenges you face when working with C#
+        for web development ?
+        How do you think C# will evolve in the next 2 - 3 years in terms of cross - platform capabilities ?
+            What is your level of experience with C# ?
+            How does your organization primarily use C# ?
+            How does C# 's performance and scalability impact your development workflow?
+        What role does C# play in your organization 's enterprise software development strategy?
+        "
+    }
+]
