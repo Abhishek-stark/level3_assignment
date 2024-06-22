@@ -2,6 +2,7 @@ import React from "react";
 
 const DetailWindow = () => {
   let FormData = Object.values(JSON.parse(localStorage.getItem("Userdata")));
+  let formkey = Object.keys(JSON.parse(localStorage.getItem("Userdata")));
   let newdata = JSON.parse(localStorage.getItem("data"));
   let questionData = newdata?.data;
 
@@ -15,6 +16,8 @@ const DetailWindow = () => {
               (datas, index) =>
                 datas && (
                   <li className="list-group-item" key={index}>
+                    Your &nbsp;{formkey[index].toLowerCase()} : &nbsp; &nbsp;
+                    &nbsp;
                     {datas}
                   </li>
                 )
