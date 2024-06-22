@@ -33,7 +33,6 @@ const SurveyForm = () => {
       );
 
       const data = await response.json();
-      console.log(data);
       localStorage.setItem("data", JSON.stringify(data));
     } catch (error) {
       console.error("Error fetching additional questions:", error);
